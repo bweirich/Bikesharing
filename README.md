@@ -15,6 +15,7 @@ This visualization shows that the majority of customers are male and that there 
 
 ### Trips by Weekday
 This visualization shows that during the week the heaviest usage is during rush hour.  On the week ends the usage is pretty steady throughout the day.
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Trips%20by%20Weekday.png)
 
 ### Trips by Weekday by Gender
