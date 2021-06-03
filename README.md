@@ -7,27 +7,35 @@ This analysis of bike-sharing data in New York City to purpose a bike-sharing pr
 
 ### Checkout Times for Users
 This visualization shows that almost all trips by customers are less then an hour long.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Checkout%20Times.png)
 
 ### Checkout Times for Users by Gender
 This visualization shows that the majority of customers are male and that there is not a difference in trip length based on gender.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Checkout%20Gender.png)
 
 ### Trips by Weekday
 This visualization shows that during the week the heaviest usage is during rush hour.  On the week ends the usage is pretty steady throughout the day.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Trips%20by%20Weekday.png)
 
 ### Trips by Weekday by Gender
 This visualization shows that there is little difference in usage times based on gender.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Trips%20by%20Gender.png)
 
 ### Trips by Weekday / Gender / User Type
 This visualization shows that most customers subscribe to the service on an annual basis.  The usage for daily customers is pretty uniform.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Trips%20by%20Gen_Day.png)
 
 ### Starting and Ending Locations
 This visualization shows that the starting and ending locations for trips are mainly concentrated in the city center.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Start_End%20Dashboard.png)
 
 ### Bike Utilization
 This visualization shows the usage of each bike based on trip duration.  This will affect the maintanence required for each bike.
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Bike%20Utilization.png)
 
 ### Average Trip Duration by Age
 This visualization shows the trip duration for younger customers is more consistent and overall higher.  
+![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Avg%20Trip%20Duration.png)
 
 ## Summary
 
