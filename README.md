@@ -1,5 +1,5 @@
 # Bikesharing
-[Link to Dashboard](https://public.tableau.com/app/profile/rebecca.weirich/viz/Challenge_CitiBikes/NYCAnalysis)
+### [Link to Dashboard](https://public.tableau.com/app/profile/rebecca.weirich/viz/Challenge_CitiBikes/NYCAnalysis)
 
 ## Purpose
 This analysis of bike-sharing data in New York City to purpose a bike-sharing program in Des Moines, Iowa.  The analysis looks at different features in the data such as trip duration, gender, time of day, location and utilization.  Since Des Moines has differences from New York the data will be used to determine the features that lead to the success and hope to replicate those.
