@@ -25,6 +25,7 @@ This visualization shows that there is little difference in usage times based on
 
 ### Trips by Weekday / Gender / User Type
 This visualization shows that most customers subscribe to the service on an annual basis.  The usage for daily customers is pretty uniform.
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Bikesharing/main/images/Trips%20by%20Gen_Day.png)
 
 ### Starting and Ending Locations
